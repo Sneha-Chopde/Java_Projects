@@ -12,6 +12,7 @@ public class Example1{
         int count = 0, num = 2;
 
         System.out.println("First 20 prime numbers:");
+        System.out.println("Heyyyyyyyyyyyy Hiiiiiiiiiiii");
 
         // Find and print first 20 prime numbers
         while (count < 20) {
